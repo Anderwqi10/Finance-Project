@@ -9,6 +9,7 @@ class MonedaAdmin(admin.ModelAdmin):
 
 class PaisAdmin(admin.ModelAdmin):
     list_display = ('id_pais', 'nombre', 'moneda__nombre')
+   
 
 admin.site.register(Usuario, UsuarioAdmin)
 admin.site.register(Moneda, MonedaAdmin)
