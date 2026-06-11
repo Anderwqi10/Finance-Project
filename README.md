@@ -220,8 +220,3 @@ http://127.0.0.1:8000/
 
 ---
 
-##  Equipo de Desarrollo
-
-Proyecto académico orientado al aprendizaje de desarrollo web con Django y modelado de bases de datos financieras.
-
----
