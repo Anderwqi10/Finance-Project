@@ -10,39 +10,6 @@ Finance Project es una aplicación web orientada a la gestión de información f
 
 ---
 
-##  Capturas de Pantalla
-
-### Página Principal
-
-[AGREGAR IMAGEN AQUÍ]
-
-Descripción de la interfaz principal del sistema y acceso a las funcionalidades financieras.
-
----
-
-### Gestión de Usuarios
-
-[AGREGAR IMAGEN AQUÍ]
-
-Módulo encargado de la administración de usuarios, roles y datos personales.
-
----
-
-### Gestión de Cuentas
-
-[AGREGAR IMAGEN AQUÍ]
-
-Permite crear y administrar cuentas de ahorro y corriente asociadas a los usuarios.
-
----
-
-### Gestión de Tarjetas
-
-[AGREGAR IMAGEN AQUÍ]
-
-Administración de tarjetas bancarias vinculadas a las cuentas registradas en el sistema.
-
----
 
 ##  Características
 
