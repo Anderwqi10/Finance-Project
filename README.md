@@ -37,6 +37,9 @@ Finance Project es una aplicación web orientada a la gestión de información f
 
 ##  Arquitectura
 
+El sistema sigue el patrón de arquitectura Modelo-Vista-Controlador (MVC) implementado por Django, permitiendo una separación clara entre la lógica de negocio, la presentación de datos y el acceso a la base de datos.
+
+
 ```text
 Usuario
    │
@@ -77,6 +80,29 @@ Finance-Project/
 ├── manage.py
 └── requirements.txt
 ```
+
+---
+## Funcionalidades Principales
+
+### Gestión de Usuarios
+
+Permite registrar, consultar y administrar la información de los usuarios del sistema, incluyendo datos personales y roles asociados.
+
+### Gestión de Cuentas Bancarias
+
+Facilita la creación y administración de cuentas bancarias vinculadas a los usuarios, permitiendo almacenar información financiera relevante.
+
+### Gestión de Tarjetas
+
+Permite asociar tarjetas bancarias a las cuentas registradas, administrando datos como número de tarjeta, fecha de expiración y límites establecidos.
+
+### Administración de Bancos
+
+Gestiona las entidades financieras registradas en el sistema y su relación con los usuarios y cuentas bancarias.
+
+### Gestión de Países y Monedas
+
+Permite configurar países y monedas para mantener la consistencia de la información financiera almacenada.
 
 ---
 
