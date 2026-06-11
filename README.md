@@ -37,8 +37,6 @@ Finance Project es una aplicación web orientada a la gestión de información f
 
 ##  Arquitectura
 
-[AGREGAR DIAGRAMA AQUÍ]
-
 ```text
 Usuario
    │
